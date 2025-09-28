@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp"
+    android:background="@drawable/purcor">
+
+    <!-- Welcome Text -->
+    <TextView
+        android:id="@+id/txtWelcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome!"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginBottom="20dp" />
+
+    <!-- Set Budget Button -->
+    <Button
+        android:id="@+id/btnSetBudget"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SET BUDGET"
+        android:backgroundTint="@color/purple_200"
+        android:textColor="@android:color/black"
+        android:layout_marginBottom="10dp"/>
+
+    <!-- Select Groceries Button -->
+    <Button
+        android:id="@+id/btnSelectGroceries"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SELECT GROCERIES"
+        android:backgroundTint="@color/purple_200"
+        android:textColor="@android:color/black"
+        android:layout_marginBottom="10dp"/>
+
+    <!-- View Selected Groceries Button -->
+    <Button
+        android:id="@+id/btnViewSelectedGroceries"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="VIEW SELECTED GROCERIES"
+        android:backgroundTint="@color/purple_200"
+        android:textColor="@android:color/black"
+        android:layout_marginBottom="10dp"/>
+
+    <Button
+        android:id="@+id/btnBrowseRecipes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BROWSE RECIPES"
+        android:backgroundTint="@color/purple_200"
+        android:textColor="@android:color/black"
+        android:layout_marginBottom="10dp"/>
+
+    <!-- Logout Button -->
+    <Button
+        android:id="@+id/btnLogout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LOGOUT"
+        android:backgroundTint="@color/purple_200"
+        android:textColor="@android:color/black"
+        android:layout_marginBottom="10dp"/>
+</LinearLayout>

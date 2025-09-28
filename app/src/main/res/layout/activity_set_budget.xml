@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:gravity="center"
+    android:background="@drawable/purcormid">
+
+    <!-- Enter Budget Text -->
+    <TextView
+        android:id="@+id/budgetText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter Your Budget:"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:paddingBottom="10dp"/>
+
+    <!-- Budget Input Field -->
+    <EditText
+        android:id="@+id/budgetInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter budget amount"
+        android:inputType="numberDecimal"
+        android:padding="12dp"
+        android:textSize="18sp"
+        android:background="@drawable/border_box"
+        android:layout_marginBottom="15dp"/>
+
+    <!-- Save Budget Button -->
+    <Button
+        android:id="@+id/btnSaveBudget"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save Budget"
+        android:backgroundTint="@color/purple_200"
+        android:textColor="@color/white"
+        android:padding="12dp"
+        android:textSize="18sp"
+        android:layout_marginBottom="15dp"/>
+
+    <!-- Display Saved Budget -->
+    <TextView
+        android:id="@+id/currentBudgetText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Current Budget: Not Set"
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        android:visibility="gone"
+        android:paddingBottom="15dp"/>
+
+    <!-- Next Button (Initially Hidden) -->
+    <Button
+        android:id="@+id/btnNext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Next"
+        android:backgroundTint="@color/red"
+        android:textColor="@color/white"
+        android:padding="12dp"
+        android:textSize="18sp"
+        android:visibility="gone"/>
+</LinearLayout>

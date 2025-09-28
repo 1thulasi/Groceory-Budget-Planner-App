@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp"
+    android:background="@drawable/round">
+
+    <!-- Add Grocery Button -->
+    <Button
+        android:id="@+id/btnAddGrocery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="25dp"
+        android:text="Add Grocery"
+        android:textAlignment="center"
+        android:backgroundTint="@color/teal_700"/>
+
+    <!-- Add Recipe Button -->
+    <Button
+        android:id="@+id/btnAddRecipe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="25dp"
+        android:text="Add Recipe"
+        android:textAlignment="center"
+        android:backgroundTint="@color/teal_700"
+        android:layout_marginTop="16dp"/>
+
+    <!-- Manage Groceries Button -->
+    <Button
+        android:id="@+id/btnManageGroceries"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="25dp"
+        android:text="Manage Groceries"
+        android:textAlignment="center"
+        android:backgroundTint="@color/teal_700"
+        android:layout_marginTop="16dp"/>
+
+    <!-- Manage Recipes Button -->
+    <Button
+        android:id="@+id/btnManageRecipes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="25dp"
+        android:text="Manage Recipes"
+        android:textAlignment="center"
+        android:backgroundTint="@color/teal_700"
+        android:layout_marginTop="16dp"/>
+</LinearLayout>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1049867088938",
+    "firebase_url": "https://smart-grocery-177a6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-grocery-177a6",
+    "storage_bucket": "smart-grocery-177a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049867088938:android:b5395c8418ec2dcdcaff53",
+        "android_client_info": {
+          "package_name": "com.example.smartgrocery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlUrJAJ00VSihb1ZqL0w6zHNzxylrLCwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

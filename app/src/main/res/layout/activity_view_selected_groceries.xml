@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/purmid">
+
+    <!-- Total Cost Display -->
+    <TextView
+        android:id="@+id/totalCostTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Total Cost: ₹0.00"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:paddingBottom="8dp" />
+
+    <!-- RecyclerView for Selected Groceries -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/selectedGroceryRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingBottom="8dp" />
+
+    <!-- Buttons Layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <!-- Add Button -->
+        <Button
+            android:id="@+id/addGroceriesButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Add"
+            android:backgroundTint="@color/purple_200"/>
+
+        <!-- Edit Button -->
+        <Button
+            android:id="@+id/editGroceriesButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Edit"
+            android:backgroundTint="@color/purple_200"/>
+
+        <!-- Remove Button -->
+        <Button
+            android:id="@+id/removeGroceriesButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Remove"
+            android:backgroundTint="@color/purple_200"/>
+    </LinearLayout>
+
+    <!-- Save Button (This was missing) -->
+    <Button
+        android:id="@+id/saveGroceriesButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save Changes"
+        android:visibility="gone"
+        android:layout_marginTop="8dp" />
+</LinearLayout>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">smart grocery</string>
+    <string name="total_amount">Total: ₹%.2f</string>
+    <string name="save_grocery">Save Grocery</string>
+    <string name="grocery_name">Grocery Name</string>
+    <string name="grocery_price">Grocery Price</string>
+    <string name="grocery_discount">Grocery Discount</string>
+    <string name="budget_message">Your budget is: %s</string>
+    <string name="price_format">Price: ₹%.2f</string>
+    <string name="discount_format">Discount: ₹%.2f</string>
+    <string name="final_price_format">Final Price: ₹%.2f</string>
+</resources>

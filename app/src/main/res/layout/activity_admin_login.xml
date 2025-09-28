@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp"
+    android:background="@drawable/green">
+
+    <TextView
+        android:id="@+id/textViewAdminLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Admin Login"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:layout_marginBottom="20dp"/>
+
+    <EditText
+        android:id="@+id/editTextAdminEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Admin Email"
+        android:inputType="textEmailAddress"
+        android:background="@android:drawable/editbox_background"
+        android:textColor="@android:color/black"
+        android:padding="10dp"
+        android:backgroundTint="@android:color/darker_gray"
+        android:layout_marginBottom="10dp"/>
+
+    <EditText
+        android:id="@+id/editTextAdminPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Admin Password"
+        android:inputType="textPassword"
+        android:background="@android:drawable/editbox_background"
+        android:textColor="@android:color/black"
+        android:padding="10dp"
+        android:backgroundTint="@android:color/darker_gray"
+        android:layout_marginBottom="20dp"/>
+
+    <Button
+        android:id="@+id/buttonAdminLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:textColor="@android:color/white"
+        android:backgroundTint="@android:color/holo_red_dark"
+        android:padding="10dp"
+        android:textSize="16sp"/>
+
+</LinearLayout>
