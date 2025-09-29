@@ -1,10 +1,10 @@
 **Grocery Budget Planner App**
 
-The Grocery Budget Planner App is a mobile application designed to help users manage their grocery shopping efficiently within a specified budget. It allows users to create and maintain a grocery list, track total costs, and receive suggestions if the budget is exceeded. The app aims to reduce wastage, optimize spending, and simplify grocery planning for individuals or families.
+* The Grocery Budget Planner App is a mobile application designed to help users manage their grocery shopping efficiently within a specified budget. It allows users to create and maintain a grocery list, track total costs, and receive suggestions if the budget is exceeded. The app aims to reduce wastage, optimize spending, and simplify grocery planning for individuals or families.
 
-The app provides a user-friendly interface for both users and admins. Users can manually select groceries, add quantities and prices, and calculate total costs, while the admin can manage grocery items, prices, discounts, and recipes.
+* The app provides a user-friendly interface for both users and admins. Users can manually select groceries, add quantities and prices, and calculate total costs, while the admin can manage grocery items, prices, discounts, and recipes.
 
-The Grocery Budget Planner App ensures a smooth and organized shopping experience by integrating features like budget tracking, price comparison, recipe-based grocery addition, and expiry date management.
+* The Grocery Budget Planner App ensures a smooth and organized shopping experience by integrating features like budget tracking, price comparison, recipe-based grocery addition, and expiry date management.
 Technologies Used
 
 **Frontend:** Kotlin (Android)
