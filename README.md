@@ -29,22 +29,6 @@ View Users: Admin can see all registered users of the app.
 
 Notifications: Admin can send notifications to users regarding updates, events, or promotions.
 
-**User Module**
-
-Set Budget: Users can define a monthly or weekly grocery budget.
-
-Create Grocery List: Users can select groceries from the predefined list, enter quantities (including decimals like 0.5 kg), and see prices automatically fetched from admin settings.
-
-Total Cost Calculation: The app dynamically calculates the total cost of selected items and alerts users if they exceed their budget.
-
-Edit Grocery List: Users can add, remove, or edit items in their grocery list at any time.
-
-Recipe Integration: Users can browse recipes and add ingredients directly to their grocery list.
-
-Expiry Tracking: Users can manually enter expiry dates for groceries and receive alerts two days before items expire.
-
-View Suggestions: If a budget is exceeded, the app suggests alternative products within budget limits.
-
 SAMPLE SCREENSHOTS
 
 HOME PAGE
@@ -62,6 +46,24 @@ GROCERY ADD PAGE
 RECIPE ADD PAGE
 
 <img width="535" height="954" alt="image" src="https://github.com/user-attachments/assets/5fa8961b-3cf0-4d8c-a1fd-e987bc016dd9" />
+
+
+**User Module**
+
+Set Budget: Users can define a monthly or weekly grocery budget.
+
+Create Grocery List: Users can select groceries from the predefined list, enter quantities (including decimals like 0.5 kg), and see prices automatically fetched from admin settings.
+
+Total Cost Calculation: The app dynamically calculates the total cost of selected items and alerts users if they exceed their budget.
+
+Edit Grocery List: Users can add, remove, or edit items in their grocery list at any time.
+
+Recipe Integration: Users can browse recipes and add ingredients directly to their grocery list.
+
+Expiry Tracking: Users can manually enter expiry dates for groceries and receive alerts two days before items expire.
+
+View Suggestions: If a budget is exceeded, the app suggests alternative products within budget limits.
+
 
 USER DASHBOARD
 
@@ -85,7 +87,6 @@ ALTERNATIVE GROCERY
 
 EDIT GROCERY PAGE
 
-
 <img width="394" height="854" alt="image" src="https://github.com/user-attachments/assets/d19680ef-941b-42f7-b806-ffe02683b4be" />
 
 INGREDIENT PAGE
@@ -95,18 +96,5 @@ INGREDIENT PAGE
 REMINDER PAGE 
 
 <img width="413" height="730" alt="image" src="https://github.com/user-attachments/assets/9639530e-9d3a-4bd5-b632-9e8fde92f178" />
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
