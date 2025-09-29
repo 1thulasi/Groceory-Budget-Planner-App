@@ -19,15 +19,15 @@ Technologies Used
 
 **Admin Module**
 
-Login Page: Secure login for admin access. Only authorized personnel can manage groceries, prices, discounts, and recipes.
+* Login Page: Secure login for admin access. Only authorized personnel can manage groceries, prices, discounts, and recipes.
 
-Manage Groceries: Add, edit, or delete grocery items. Set price per kg/unit and discounts for items.
+* Manage Groceries: Add, edit, or delete grocery items. Set price per kg/unit and discounts for items.
 
-Manage Recipes: Add recipes along with ingredients. Admins can edit, update, or delete recipes.
+* Manage Recipes: Add recipes along with ingredients. Admins can edit, update, or delete recipes.
 
-View Users: Admin can see all registered users of the app.
+* View Users: Admin can see all registered users of the app.
 
-Notifications: Admin can send notifications to users regarding updates, events, or promotions.
+* Notifications: Admin can send notifications to users regarding updates, events, or promotions.
 
 SAMPLE SCREENSHOTS
 
@@ -50,19 +50,19 @@ RECIPE ADD PAGE
 
 **User Module**
 
-Set Budget: Users can define a monthly or weekly grocery budget.
+* Set Budget: Users can define a monthly or weekly grocery budget.
 
-Create Grocery List: Users can select groceries from the predefined list, enter quantities (including decimals like 0.5 kg), and see prices automatically fetched from admin settings.
+* Create Grocery List: Users can select groceries from the predefined list, enter quantities (including decimals like 0.5 kg), and see prices automatically fetched from admin settings.
 
-Total Cost Calculation: The app dynamically calculates the total cost of selected items and alerts users if they exceed their budget.
+* Total Cost Calculation: The app dynamically calculates the total cost of selected items and alerts users if they exceed their budget.
 
-Edit Grocery List: Users can add, remove, or edit items in their grocery list at any time.
+* Edit Grocery List: Users can add, remove, or edit items in their grocery list at any time.
 
-Recipe Integration: Users can browse recipes and add ingredients directly to their grocery list.
+* Recipe Integration: Users can browse recipes and add ingredients directly to their grocery list.
 
-Expiry Tracking: Users can manually enter expiry dates for groceries and receive alerts two days before items expire.
+* Expiry Tracking: Users can manually enter expiry dates for groceries and receive alerts two days before items expire.
 
-View Suggestions: If a budget is exceeded, the app suggests alternative products within budget limits.
+* View Suggestions: If a budget is exceeded, the app suggests alternative products within budget limits.
 
 
 USER DASHBOARD
