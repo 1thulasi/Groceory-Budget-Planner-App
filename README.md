@@ -82,6 +82,10 @@ EXCEED PAGE
 ALTERNATIVE GROCERY 
 
 <img width="481" height="860" alt="image" src="https://github.com/user-attachments/assets/7a9bfa5b-e48c-4e30-881b-31fcadf25bff" />
+
+EDIT GROCERY PAGE
+
+
 <img width="394" height="854" alt="image" src="https://github.com/user-attachments/assets/d19680ef-941b-42f7-b806-ffe02683b4be" />
 
 INGREDIENT PAGE
@@ -91,7 +95,7 @@ INGREDIENT PAGE
 REMINDER PAGE 
 
 <img width="413" height="730" alt="image" src="https://github.com/user-attachments/assets/9639530e-9d3a-4bd5-b632-9e8fde92f178" />
-<img width="405" height="745" alt="image" src="https://github.com/user-attachments/assets/7a799f2f-8295-40fb-84f9-5182511907e1" />
+
 
 
 
