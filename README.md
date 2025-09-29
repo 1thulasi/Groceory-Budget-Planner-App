@@ -44,3 +44,7 @@ Recipe Integration: Users can browse recipes and add ingredients directly to the
 Expiry Tracking: Users can manually enter expiry dates for groceries and receive alerts two days before items expire.
 
 View Suggestions: If a budget is exceeded, the app suggests alternative products within budget limits.
+
+
+<img width="791" height="527" alt="image" src="https://github.com/user-attachments/assets/10208dfa-935c-4253-90b9-c288ef66cc99" />
+
