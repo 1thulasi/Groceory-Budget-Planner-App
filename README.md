@@ -45,6 +45,64 @@ Expiry Tracking: Users can manually enter expiry dates for groceries and receive
 
 View Suggestions: If a budget is exceeded, the app suggests alternative products within budget limits.
 
+SAMPLE SCREENSHOTS
 
-<img width="791" height="527" alt="image" src="https://github.com/user-attachments/assets/10208dfa-935c-4253-90b9-c288ef66cc99" />
+HOME PAGE
+
+<img width="363" height="763" alt="image" src="https://github.com/user-attachments/assets/92820e15-90d7-4c56-af81-94056773767a" />
+
+ADMIN DASHBOARD
+
+<img width="439" height="834" alt="image" src="https://github.com/user-attachments/assets/5a2b35cd-90fe-4656-b5ce-f0dda40eaccb" />
+
+GROCERY ADD PAGE
+
+<img width="474" height="830" alt="image" src="https://github.com/user-attachments/assets/42a65841-1e09-4e98-9026-d3912bc4df8d" />
+
+RECIPE ADD PAGE
+
+<img width="535" height="954" alt="image" src="https://github.com/user-attachments/assets/5fa8961b-3cf0-4d8c-a1fd-e987bc016dd9" />
+
+USER DASHBOARD
+
+<img width="559" height="1010" alt="image" src="https://github.com/user-attachments/assets/e7b39042-f971-44b9-a80c-a5fdcee9fad8" />
+
+BUDGET PAGE
+
+<img width="411" height="880" alt="image" src="https://github.com/user-attachments/assets/785de7a1-3ada-43cf-8198-2748211b5fbb" />
+
+GROCERY SELECT PAGE
+
+<img width="500" height="875" alt="image" src="https://github.com/user-attachments/assets/a9eed236-b050-4d79-82dc-beac0c7f4a58" />
+
+EXCEED PAGE 
+
+<img width="504" height="965" alt="image" src="https://github.com/user-attachments/assets/a5b47fc6-c5ab-4709-bec4-a64fc6ceef23" />
+
+ALTERNATIVE GROCERY 
+
+<img width="481" height="860" alt="image" src="https://github.com/user-attachments/assets/7a9bfa5b-e48c-4e30-881b-31fcadf25bff" />
+<img width="394" height="854" alt="image" src="https://github.com/user-attachments/assets/d19680ef-941b-42f7-b806-ffe02683b4be" />
+
+INGREDIENT PAGE
+
+<img width="376" height="726" alt="image" src="https://github.com/user-attachments/assets/ae752f25-3b28-49eb-becd-31cbde8adb7c" />
+
+REMINDER PAGE 
+
+<img width="413" height="730" alt="image" src="https://github.com/user-attachments/assets/9639530e-9d3a-4bd5-b632-9e8fde92f178" />
+<img width="405" height="745" alt="image" src="https://github.com/user-attachments/assets/7a799f2f-8295-40fb-84f9-5182511907e1" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
